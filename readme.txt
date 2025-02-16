@@ -13,3 +13,10 @@ pip install -r requirements.txt
 4.Run the BoobBuddy:
 Streamlit run app.py
 
+
+
+note: you have to install Ollama and pull LLaMA3:2 Latest model to run this chatbot
+Ollama download link: https://ollama.com/download
+after download and install Ollama
+
+open Command prompt and run this command: ollama run llama3.2
