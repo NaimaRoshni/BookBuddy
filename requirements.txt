@@ -1,0 +1,10 @@
+streamlit
+faiss-cpu
+numpy
+pandas
+sentence-transformers
+pdfplumber
+langchain
+langchain-community
+langchain-ollama
+ollama
