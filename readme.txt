@@ -10,7 +10,7 @@ venv\Scripts\activate
 3.Install the requirements
 pip install -r requirements.txt
 
-4.Run the BoobBuddy:
+4.Run the BookBuddy:
 Streamlit run app.py
 
 
