@@ -1,18 +1,18 @@
 import streamlit as st
 from main import query_book_recommendation
 
-#  Streamlit UI setup
+# Streamlit UI setup
 st.set_page_config(page_title="Book Recommendation Chatbot", page_icon="📚", layout="wide")
 st.title("📚 AI-Powered Book Recommendation Chatbot")
 
-#  Initialize chat history
+# Initialize chat history
 if "chat_history" not in st.session_state:
     st.session_state.chat_history = []
 
 # Sidebar for model selection
 with st.sidebar:
     st.subheader("Settings")
-    llm_model = st.selectbox("Select LLM Model", ["llama3.2:latest"], index=0)  # 🔄 Only show Llama3
+    llm_model = st.selectbox("Select LLM Model", ["llama3.2:latest", "deepseek-r1:1.5b", "qwen2.5:1.5b"], index=0)  # 🔄 Added DeepSeek and Qwen models
     if st.button("Clear Chat History"):
         st.session_state.chat_history = []
         st.success("Chat history cleared!")
@@ -33,7 +33,7 @@ if st.button("Submit"):
         st.chat_message("user", avatar="🧑").markdown(user_input)
 
         with st.spinner("Fetching recommendations..."):
-            response = query_book_recommendation(user_input, llm_model)
+            response = query_book_recommendation(user_input, llm_model)  # 🔄 Pass selected model to query_book_recommendation
 
             st.session_state.chat_history.append({"role": "assistant", "content": response})
             st.chat_message("assistant", avatar="🤖").markdown(response)

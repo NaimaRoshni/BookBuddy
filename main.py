@@ -50,8 +50,8 @@ def retrieve_books(question, k=5):
     retrieved_docs = [metadata[i] for i in indices[0] if i < len(metadata)]
     return retrieved_docs
 
-# Generate book recommendations using Llama3
-def generate_ans(question, chat_history, model_name="llama3.2:latest"):  # 🔄 Change default to Llama3
+# Generate book recommendations using the selected model
+def generate_ans(question, chat_history, model_name="llama3.2:latest"):  # 🔄 Dynamically use selected model
     llm = OllamaLLM(model=model_name)
 
     # Ensure question is a string
