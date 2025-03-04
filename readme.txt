@@ -20,3 +20,9 @@ Ollama download link: https://ollama.com/download
 after download and install Ollama
 
 open Command prompt and run this command: ollama run llama3.2
+
+
+📊 **Final Test Results**
+✅ Passed: 9/12
+⏳ **Average Response Time:** 147.68 seconds
+🎯 **Accuracy:** 75.00%
