@@ -1,0 +1,196 @@
+Starting evaluation of the book recommendation chatbot...
+
+Query: Can you recommend a mystery book?
+Response: I see that you're looking for a mystery book recommendation. Based on your interest in psychological thrillers like "One by One" and complex mysteries with shifting perspectives, I'd like to suggest the following books:
+
+1. **"The Silent Patient" by Alex Michaelides**: A psychological thriller about a famous painter who shoots her husband and refuses to speak after the incident. The story follows a psychotherapist who becomes obsessed with uncovering the truth behind her silence.
+2. **"Gone Girl" by Gillian Flynn**: A twisty, suspenseful novel about a marriage that takes a dark and unexpected turn. When Amy goes missing, her husband becomes the prime suspect, but nothing is as it seems in this gripping mystery.
+3. **"The Last Mrs. Parrish" by Liv Constantine**: A psychological thriller about a woman who will stop at nothing to claim the life she feels she deserves. With its complex web of relationships and deceit, this book is perfect for fans of "One by One".
+4. **"The Couple Next Door" by Shari Lapena**: A domestic mystery about a couple whose baby goes missing, and the secrets that come to light as they try to uncover the truth.
+5. **"The 7 1/2 Deaths of Evelyn Hardcastle" by Stuart Turton**: A unique and complex murder mystery that follows Aiden Bishop, a man who wakes up each day in a different body.
+
+These books all share elements of psychological tension, complex characters, and intricate mysteries, which I think you'll enjoy based on your interest in "One by One".
+Response Time: 157.30 seconds
+Cosine Similarity: 0.31
+--------------------------------------------------
+Query: Tell me about psychological thrillers.
+Response: Based on the retrieved context, it seems like you're in the mood for a gripping psychological thriller. I'd recommend the following books:
+
+1. **The Last Mrs. Parrish** by Liv Constantine: A twisted tale of obsession, revenge, and deceit, told from multiple perspectives.
+2. **The 7 1/2 Deaths of Evelyn Hardcastle** by Stuart Turton: A mind-bending mystery that follows a man as he's trapped in a cycle of murder and rebirth, trying to unravel the secrets behind his own death.   
+3. **The Devil in the White City** by Erik Larson: A historical crime thriller that takes you on a journey across Europe and America, exploring the darker side of human nature and the cat-and-mouse game between detectives and serial killers.
+4. **The Poison Tree** by Erin Kelly: A dark and twisted tale of family secrets, obsession, and the consequences of playing with fire.
+5. **The Wife Between Us** by Greer Hendricks and Sarah Pekkanen: A psychological thriller about a marriage that's not what it seems, and the secrets that can destroy a relationship.
+
+These books share similar themes and elements with Verity, NOS4A2, One by One, The Silent Patient, such as:
+
+* Twists and turns in the plot
+* Dark and complex characters
+* Explorations of identity, control, and human psychology
+* Gripping mysteries that keep you on the edge of your seat
+
+Which one of these books catches your attention?
+Response Time: 130.84 seconds
+Cosine Similarity: 0.21
+--------------------------------------------------
+Query: Books similar to The Girl with the Dragon Tattoo.
+Response: Based on the context provided, I've analyzed the genres and themes present in 'The Girl with the Dragon Tattoo'. It appears that you're looking for books that share similar elements such as:
+
+* Mystery and Crime Thriller
+* Dark pasts or troubled protagonists
+* Investigations or unravelling of secrets
+* Corruption, family secrets, and violence
+
+With these elements in mind, I'd like to recommend the following books:
+
+1. 'The Midnight Queen' by Sylvia Izzo Hunter - Although it's a historical fantasy, its themes of conspiracies, forbidden forces, and dark pasts may appeal to fans of 'The Girl with the Dragon Tattoo'.        
+2. 'Queen of the Conquered' by Kacen Callender - This book shares similarities with 'The Girl with the Dragon Tattoo' in terms of its dark and troubled protagonist, as well as its exploration of power dynamics and revenge.
+3. 'A Discovery of Witches' by Deborah Harkness - As an urban fantasy novel, it has elements of mystery, romance, and supernatural creatures, which might appeal to fans of 'The Girl with the Dragon Tattoo'.   
+4. 'Children of Blood and Bone' by Tomi Adeyemi - This book shares similarities with 'The Girl with the Dragon Tattoo' in terms of its exploration of power dynamics, corruption, and revenge.
+5. 'King of Scars' by Leigh Bardugo - While it's a YA fantasy novel, it has elements of mystery, politics, and dark pasts that might appeal to fans of 'The Girl with the Dragon Tattoo'.
+
+These recommendations are based on the genres and themes present in 'The Girl with the Dragon Tattoo'. However, please note that individual tastes may vary, and you may find that one or more of these books resonates with you more than others.
+Response Time: 152.04 seconds
+Cosine Similarity: 0.50
+--------------------------------------------------
+Query: Suggest me a book by Agatha Christie.
+Response: Based on your interest in books that explore dark themes, deception, and the glamorous world of fashion and fame, I would recommend the following books by Agatha Christie:
+
+1. **Crooked House** (1949) - A classic mystery novel about a family's dark past, deceit, and betrayal.
+2. **Murder on the Orient Express** (1934) - A famous whodunit that takes place on a luxurious train, where a group of strangers become embroiled in a complex web of murder and intrigue.
+
+Both books share similarities with **And Then There Were None**, exploring themes of greed, deception, and the glamorous world of fashion and fame.
+Response Time: 73.42 seconds
+Cosine Similarity: 0.24
+--------------------------------------------------
+Query: I am interested in fantasy books like The Name of the Wind.
+Response: Based on your interest in fantasy books like "The Name of the Wind", I'd like to recommend some books that share similar themes, styles, or elements. Here are a few suggestions:
+
+1. **"The Way of Kings" by Brandon Sanderson**: This epic fantasy novel shares similarities with "The Name of the Wind" in its complex world-building, intricate plotting, and character-driven storytelling.    
+2. **"The Goblin Emperor" by Katherine Addison**: This political fantasy novel features a similar blend of mythology, magic, and court politics, making it a great fit for fans of Kvothe's story.
+3. **"The First Law Trilogy" by Joe Abercrombie**: While not identical to "The Name of the Wind", this gritty epic fantasy series explores complex characters, morally ambiguous themes, and bloody battles.     
+4. **"The Lies of Locke Lamora" by Scott Lynch**: This fantasy novel features a similar blend of fantasy and adventure elements, with a focus on complex characters, witty dialogue, and a richly detailed world.
+5. **"The Lightbringer" series by Brent Weeks**: This epic fantasy series shares similarities with "The Name of the Wind" in its fast-paced action, complex magic systems, and morally ambiguous themes.
+
+These recommendations are based on your interest in epic fantasy novels with complex characters, intricate plotting, and a focus on storytelling. I hope you find something that piques your interest!
+
+Would you like more recommendations or have any specific preferences (e.g., YA, adult, light vs. dark tone)?
+Response Time: 139.66 seconds
+Cosine Similarity: 0.26
+--------------------------------------------------
+Query: Books related to magic and fantasy.
+Response: Based on the retrieved context, I can see that you're interested in books related to magic and fantasy. You've already mentioned "The Black Prism" by Brent Weeks, which is an epic fantasy novel with a unique magic system.
+
+Considering your interest in magic and fantasy, here are some book recommendations:
+
+1. **The Night Circus** by Erin Morgenstern - This is a magical realism novel that explores the world of magic and fantasy through the lens of a competition between two young magicians.
+2. **Stormdancer** by Jay Kristoff - As you've already mentioned, this is an epic fantasy novel with a unique magic system set in a world where magic is linked to colors.
+3. **The Alloy of Law** by Brandon Sanderson - This is a fantasy novel that combines magic and technology in a world where magic meets industrial technology.
+4. **A Discovery of Witches** by Deborah Harkness - This is an urban fantasy novel that explores the world of vampires, witches, and magical manuscripts.
+5. **We Hunt the Flame** by Hafsah Faizal - As you've already mentioned, this is a YA fantasy novel with a unique magic system set in a Middle Eastern-inspired world.
+
+If you're looking for something similar to "The Black Prism", I'd also recommend:
+
+1. **The First Law Trilogy** by Joe Abercrombie - This is an epic fantasy series with a gritty and complex magic system.
+2. **The Kingkiller Chronicle** by Patrick Rothfuss - This is an epic fantasy series with a unique magic system and a deep, complex world-building.
+
+Let me know if any of these books interest you, or if you'd like more recommendations!
+Response Time: 145.10 seconds
+Cosine Similarity: 0.17
+--------------------------------------------------
+Query: What books are about psychological horror?
+Response: Based on the context provided, I can recommend the following books that fit into the category of Psychological Horror:
+
+1. The House Next Door by Anne Rivers Siddons (1978) - A classic tale of a writer's descent into madness as she discovers an unfinished manuscript about a cursed red oak tree.
+2. The Elementals by Michael McDowell (1981) - A Southern Gothic horror novel that follows Lola Nox as she uncovers dark secrets about her family and the town's eerie history.
+3. The Dead Zone by Stephen King (1979) - A gripping and unsettling narrative about a successful architect who begins experiencing strange and violent impulses, potentially possessed by a malevolent entity.   
+
+These books are all known for their psychological tension, blurring of reality and madness, and exploration of themes such as identity, control, and the descent into madness.
+Response Time: 85.02 seconds
+Cosine Similarity: 0.35
+--------------------------------------------------
+Query: Suggest me something by Stephen King.
+Response: Unfortunately, I couldn't find any book information in the provided context that is written by Stephen King. The context appears to be focused on fantasy and science fiction books.
+
+However, if you'd like to explore other genres or authors similar to Stephen King, I can suggest some options based on your interest in fantasy and adventure:
+
+1. Neil Gaiman - His works often blend fantasy and horror elements, such as "American Gods" and "The Graveyard Book".
+2. Patrick Rothfuss - Known for his epic fantasy series "The Kingkiller Chronicle", which shares a similar atmosphere with some of Stephen King's darker works.
+3. Joe Hill - As the son of Stephen King, Joe Hill has written several horror and fantasy novels, including "Heart-Shaped Box" and "NOS4A2".
+
+Would you like more information on these authors or suggestions based on specific themes within Stephen King's works?
+Response Time: 99.30 seconds
+Cosine Similarity: 0.21
+--------------------------------------------------
+Query: Can you recommend a classic detective mystery?
+Response: Based on your interest in classic detective mysteries, I'd like to recommend the following books:
+
+1. **The Hound of the Baskervilles** by Sir Arthur Conan Doyle - This classic novel is considered one of the greatest detective stories of all time, and it's a great starting point for anyone interested in Sherlock Holmes.
+2. **The Moonstone** by Wilkie Collins - Published in 1868, this is considered one of the first detective novels ever written. It follows a mysterious diamond that goes missing, and the investigations that follow to uncover its truth.
+3. **The Murders in the Rue Morgue** by Edgar Allan Poe - This short story (1839) introduces us to C. Auguste Dupin, a precursor to Sherlock Holmes. It's considered one of the first detective stories ever written.
+
+These books offer a great blend of suspense, deduction, and classic detective work that will appeal to fans of Agatha Christie, Arthur Conan Doyle, and other classic detectives.
+
+Would you like me to suggest more recommendations or elaborate on these suggestions?
+Response Time: 93.23 seconds
+Cosine Similarity: 0.43
+--------------------------------------------------
+Query: Books like Harry Potter?
+Response: Based on the provided context, I'd like to recommend some books that share similar themes and elements with Harry Potter. Here are a few suggestions:
+
+1. **The All Souls Trilogy** by Deborah Harkness - This series is a historical fantasy that follows a witch who discovers a long-lost manuscript that holds the secrets of magical creatures. It's a great blend of magic, adventure, and romance.
+2. **The Golden Compass** by Philip Pullman - Set in a parallel universe, this classic fantasy novel follows a young girl named Lyra on a journey to save her friend and uncover the secrets of a mysterious substance called Dust.
+3. **The Magicians** by Lev Grossman - This series is a darker, more mature take on the magical world, following a group of young adults as they discover their magical abilities and confront the forces of evil.
+4. **The Secrets of the Immortal Nicholas Flamel** series by Michael Scott - This series follows twins who discover that they are the reincarnations of the alchemist Nicholas Flamel and his wife Perenelle, and must use their magical powers to save the world from destruction.
+5. **The Magisterium Series** by Holly Black and Cassandra Clare - This series follows a young boy named Callum Hunt as he discovers a secret magical school and must navigate the complexities of friendship, loyalty, and power.
+
+These books all share elements of magic, adventure, and self-discovery that made Harry Potter so beloved. I hope you find something that interests you!
+
+Would you like more recommendations or have any specific preferences (e.g., adult vs. YA, light-hearted vs. dark, etc.)?
+Response Time: 137.35 seconds
+Cosine Similarity: 0.19
+--------------------------------------------------
+Query: Can you suggest a historical mystery?
+Response: Based on the context you provided, I'm going to recommend some historical mysteries that might interest you.
+
+Considering your appreciation for "The Secret History" and "One by One", which both involve complex characters, moral decay, and psychological thrillers, here are a few suggestions:
+
+1. **"Rebecca" by Daphne du Maurier (1938)**: This classic novel is set in the 19th century and follows the story of a young woman who marries a wealthy widower, only to discover that his late wife's memory still haunts him. As she tries to uncover the truth about Rebecca's life and death, she becomes entangled in a web of secrets and lies.
+2. **"The Historian" by Elizabeth Kostova (2005)**: This epic novel spans centuries, tracing the history of Dracula through the ages. It follows a young woman's quest to uncover the truth about her family's dark past, which leads her on a thrilling journey through Eastern Europe and beyond.
+3. **"The Alienist" by Caleb Carr (1994)**: Set in 1890s New York City, this novel explores the intersection of psychology, crime, and politics during the rise of urbanization and immigration. When a series of gruesome child murders takes place, a team of experts must unravel the mystery behind the killer's motivations.
+4. **"The Name of the Rose" by Umberto Eco (1980)**: This medieval murder mystery follows a Franciscan friar and his young apprentice as they arrive at a monastery in the year 1327. There, they become embroiled in a complex web of intrigue, heresy, and conspiracy.
+
+These novels share elements of psychological tension, historical settings, and suspenseful plots that might appeal to fans of "The Secret History" and "One by One".
+
+Which one of these titles catches your eye?
+Response Time: 148.78 seconds
+Cosine Similarity: 0.25
+--------------------------------------------------
+Query: What is a good book for learning Python?
+Response: I can see that you're interested in learning Python. However, I'm a book recommendation assistant and my knowledge is based on books.
+
+Unfortunately, there isn't a specific book that directly teaches Python programming. But I can suggest some non-fiction books that may help you learn Python:
+
+1. "Python Crash Course" by Eric Matthes - This book covers the basics of Python programming and includes practical exercises to help you learn.
+2. "Automate the Boring Stuff with Python" by Al Sweigart - This book focuses on using Python for automating tasks and is a great resource for beginners.
+3. "Python for Data Analysis" by Wes McKinney - If you're interested in using Python for data analysis, this book is a great choice.
+
+If you're looking for fiction books that may interest you in learning Python, I can suggest:
+
+1. "Ready Player One" by Ernest Cline - This sci-fi novel features a protagonist who uses his programming skills to compete in virtual reality games.
+2. "The Diamond Age" by Neal Stephenson - This novel explores the intersection of technology and society, including advanced programming concepts.
+
+However, keep in mind that these books are not specifically about learning Python programming.
+
+Would you like more information on any of these books or would you like me to suggest more options?
+Response Time: 120.86 seconds
+Cosine Similarity: 0.00
+--------------------------------------------------
+
+Final Evaluation Metrics:
+Accuracy: 0.17
+Precision: 1.00
+Recall: 0.09
+F1 Score: 0.17
+Average Cosine Similarity: 0.26
+Average Response Time: 123.58 seconds
