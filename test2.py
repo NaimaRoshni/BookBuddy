@@ -53,6 +53,8 @@ for idx, test in enumerate(test_cases, 1):
 
     start_time = time.time()
     response = query_book_recommendation(query, "llama3.2:latest")
+    response = query_book_recommendation(query, "deepseek-r1:1.5b")
+    response = query_book_recommendation(query, "qwen2.5:latest")
     duration = time.time() - start_time
     total_response_time += duration
 

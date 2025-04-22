@@ -1,0 +1,25 @@
+📊 Final Evaluation Summary
+
+1.  llama3.2:latest
+    Passed: 10/13
+    Avg Precision: 0.3410
+    Avg Recall: 0.3410
+    Avg F1 Score: 0.3410
+    Avg Response Time: 235.41s
+    Accuracy: 77.08%
+
+2.  deepseek-r1:1.5b
+    Passed: 9/13
+    Avg Precision: 0.2950
+    Avg Recall: 0.2950
+    Avg F1 Score: 0.2950
+    Avg Response Time: 208.90s
+    Accuracy: 73.68%
+
+3.  qwen2.5:latest
+    Passed: 17/21
+    Avg Precision: 0.3875
+    Avg Recall: 0.3875
+    Avg F1 Score: 0.3875
+    Avg Response Time: 190.12s
+    Accuracy: 81.05%
